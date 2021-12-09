@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/Python_Automation/UX_design/PC_Hardwares
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me poke me
+- 📫 How to reach me? nayemhassan421123@gmail.com
 
 <!---
 Nayemhasan/Nayemhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
